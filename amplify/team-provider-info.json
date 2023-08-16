@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-voiceverification-dev-152619-authRole",
+      "UnauthRoleArn": "arn:aws:iam::432795727339:role/amplify-voiceverification-dev-152619-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::432795727339:role/amplify-voiceverification-dev-152619-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-voiceverification-dev-152619-deployment",
+      "UnauthRoleName": "amplify-voiceverification-dev-152619-unauthRole",
+      "StackName": "amplify-voiceverification-dev-152619",
+      "StackId": "arn:aws:cloudformation:us-east-1:432795727339:stack/amplify-voiceverification-dev-152619/14cdffa0-f9a8-11ed-818a-126a91fe4611",
+      "AmplifyAppId": "d32mlm2izoei5b"
+    },
+    "categories": {
+      "auth": {
+        "voiceverificationf161b05a": {}
+      }
+    }
+  }
+}
